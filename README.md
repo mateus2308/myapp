@@ -1,6 +1,6 @@
-# myapp
+# Meu Aplicativo
 
-A new Flutter project.
+Aplicação web relacionada ao módulo 2.
 
 ## Getting Started
 
